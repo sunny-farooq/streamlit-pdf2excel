@@ -1,1 +1,4 @@
-git commit -m "first commit"
+streamlit
+pandas
+openpyxl
+pdfplumber
